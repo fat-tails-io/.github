@@ -18,8 +18,8 @@ The repositories explore deeper and improved collaboration across business funct
 - fat-tails.github.io - 🚧 UNDER CONSTRUCTION 🚧
 
 ### Thoughtful integration(s)
-- [ft-tracklink](https://github.com/fat-tails-io/ft-tracklink) : highlighting value from physical and visual domains, an integration in Formula 1 racing
-- [ft-atl-ai-tracing](https://fat-tails-io.github.io/ft-atl-ai-tracing/embedded-ai-traceability.html#/title-slide) : tracing AI is crucial for bias detection and value attribution. Available as standard with open frameworks, this talk explores the trickier approaches needed to achieve tracing with "AI Inside" solutions.
+- [ft-tracklink](https://github.com/fat-tails-io/ft-tracklink) : highlighting value from physical and visual domains, an integration in Formula 1 racing, an Atlassian Forge-based engine for linking visual coordinates to governed work items. Originally prototyped using motorsport GeoJSON, technqieus may be broadly applicable in sectors with "physical -> visual" mapping requirements
+- [ft-atl-ai-tracing](https://fat-tails-io.github.io/ft-atl-ai-tracing/embedded-ai-traceability.html#/title-slide) : Research and prototypes presented at **ACE London (April 2026)**. Exploring how enterprises can bring observability (OpenTelemetry) to AI agent activity in the Atlassian ecosystem to ensure compliance and safety as AI agents join the workforce.
 
 As further solutions are explored, they will appear here.
 
