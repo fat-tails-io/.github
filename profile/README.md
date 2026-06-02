@@ -1,8 +1,13 @@
 # fat-tails.io
 fat-tails.io - towards a deeper understanding of project success in the Atlassian eco-system. Solutions and apps that motivate new thinking and support improved success rates.
 
+Strategic experiments in **AI Governance**, **Delivery Automation**, and **Closing the "Observation-to-Action" Gap**.
+
 ## What is a fat tail?
 A "fat tail" is a probability distribution where extreme, outlier events occur more frequently than would be expected under a standard bell curve (normal distribution). The "tails" of this distribution are fatter, indicating the probability of catastrophic loss or massive gain is significantly higher.
+
+## The Philosophy
+In large-scale delivery, the greatest risk lives in the gap between high-level strategy and engineering reality. This organization serves as a **Validation Lab** for ideas on how to govern new technology at scale.
 
 ## What can you find here?
 New teammates will include AI agents, here you will find research that explores the discipline of closing the 'observation to action' gap across modes and products. At fat-tails.io we see plenty of reason for optimism and benefit for companies of all sizes. We explore ideas about how to govern them, through monitoring and increased transparency, we sharing these ideas here and in other public forums (ai-tracing).
