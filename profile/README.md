@@ -5,7 +5,9 @@ fat-tails.io - towards a deeper understanding of project success in the Atlassia
 A "fat tail" is a probability distribution where extreme, outlier events occur more frequently than would be expected under a standard bell curve (normal distribution). The "tails" of this distribution are fatter, indicating the probability of catastrophic loss or massive gain is significantly higher.
 
 ## What can you find here?
-Repositories explore deeper and improved collaboration across business functions with thoughtful integration ideas, because forensic understanding of root causes in project failure (and their avoidance) lead to improved overall success rates.
+New teammates will include AI agents, here you will find research that explores the discipline of closing the 'observation to action' gap across modes and products. At fat-tails.io we see plenty of reason for optimism and benefit for companies of all sizes. We explore ideas about how to govern them, through monitoring and increased transparency, we sharing these ideas here and in other public forums (ai-tracing).
+
+The repositories explore deeper and improved collaboration across business functions with thoughtful integration ideas, because forensic understanding of root causes in project failure (and their avoidance) lead to improved overall success rates.
 
 ### Improved Project Financial Understanding
 - fat-tails.github.io - 🚧 UNDER CONSTRUCTION 🚧
