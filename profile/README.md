@@ -6,7 +6,7 @@ Strategic experiments in **AI Governance**, **Delivery Automation**, and **Closi
 ## What is a fat tail?
 A "fat tail" is a probability distribution where extreme, outlier events occur more frequently than would be expected under a standard bell curve (normal distribution). The "tails" of this distribution are fatter, indicating the probability of catastrophic loss or massive gain is significantly higher.
 
-## The Philosophy
+## Philosophy
 In large-scale delivery, the greatest risk lives in the gap between high-level strategy and engineering reality. This organization serves as a **Validation Lab** for ideas on how to govern new technology at scale.
 
 ## What can you find here?
